@@ -1,4 +1,4 @@
-[![DeepScan grade](https://deepscan.io/api/teams/11734/projects/15657/branches/316051/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=11734&pid=15657&bid=316051)
+[![DeepScan grade](https://deepscan.io/api/teams/12630/projects/15677/branches/316211/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=12630&pid=15677&bid=316211)
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/python-clojure/airbnb-clone?branch=master&token=d7c183e05a2db0a622a45d8b357fa51695586552)](https://bettercodehub.com/)
 
